@@ -1,2 +1,2 @@
 # hello-world
-first private repository
+za warudo
